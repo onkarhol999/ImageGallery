@@ -1,0 +1,28 @@
+/* PhotoDetail.css */
+.photo-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .photo-detail h2 {
+    font-size: 24px;
+    margin: 20px 0;
+    color: #333;
+  }
+  
+  .photo-detail img {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .photo-detail p {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .photo-detail .loading {
+    font-size: 18px;
+    color: #777;
+  }
+  
